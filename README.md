@@ -76,3 +76,7 @@ Run the test suite with:
 ```sh
 go test ./...
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
